@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# R extra
+.DS_Store
+npdr-brainage.Rproj
+
+# data
+idpsAllScans.RData
+idpsR01.RData
+Demographic_symptom.csv
+T1000_redcap_wide-2017-03-18.csv
+ages6000.csv
+filteredPredictors.csv
+hanli/
+
